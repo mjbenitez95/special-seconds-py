@@ -1,1 +1,1 @@
-# time-rgb-matrix
+# special-seconds-py
